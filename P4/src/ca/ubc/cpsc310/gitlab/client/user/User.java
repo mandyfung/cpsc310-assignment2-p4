@@ -13,7 +13,7 @@ public class User implements IUser {
 	private List<ProductItem> shoppingCart = new ArrayList<ProductItem>();
 	private List<ProductItem> wishList = new ArrayList<ProductItem>();
 	
-	private String name;
+	private String name = "Bob";
 	private String language;
 
 	
