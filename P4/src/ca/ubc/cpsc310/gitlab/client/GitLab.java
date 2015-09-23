@@ -83,13 +83,9 @@ public class GitLab implements EntryPoint {
 		
 		flexTable.setText(0,0, "Name");
 		
-<<<<<<< HEAD
 		flexTable.setText(0,1,"Language");
 		flexTable.setText(0,2, "Shopping Cart Size(s)");
-=======
-		flexTable.setText(0,1,"Language");
-		flexTable.setText(0,2, "Shopping Cart Size(((");
->>>>>>> users
+
 		flexTable.setText(0,3, "Wish List Size");
 		flexTable.setStyleName("centered-table", true);
 		
